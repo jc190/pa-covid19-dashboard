@@ -1,0 +1,194 @@
+[
+  {
+    "county": "Adams",
+    "confirmed": "7"
+  },
+  {
+    "county": "Allegheny",
+    "confirmed": "133"
+  },
+  {
+    "county": "Armstrong",
+    "confirmed": "1"
+  },
+  {
+    "county": "Beaver",
+    "confirmed": "13"
+  },
+  {
+    "county": "Berks",
+    "confirmed": "36"
+  },
+  {
+    "county": "Blair",
+    "confirmed": "1"
+  },
+  {
+    "county": "Bradford",
+    "confirmed": "2"
+  },
+  {
+    "county": "Bucks",
+    "confirmed": "107"
+  },
+  {
+    "county": "Butler",
+    "confirmed": "19"
+  },
+  {
+    "county": "Cambria",
+    "confirmed": "1"
+  },
+  {
+    "county": "Carbon",
+    "confirmed": "2"
+  },
+  {
+    "county": "Centre",
+    "confirmed": "9"
+  },
+  {
+    "county": "Chester",
+    "confirmed": "84"
+  },
+  {
+    "county": "Clearfield",
+    "confirmed": "2"
+  },
+  {
+    "county": "Columbia",
+    "confirmed": "3"
+  },
+  {
+    "county": "Crawford",
+    "confirmed": "1"
+  },
+  {
+    "county": "Cumberland",
+    "confirmed": "15"
+  },
+  {
+    "county": "Dauphin",
+    "confirmed": "13"
+  },
+  {
+    "county": "Delaware",
+    "confirmed": "156"
+  },
+  {
+    "county": "Erie",
+    "confirmed": "4"
+  },
+  {
+    "county": "Fayette",
+    "confirmed": "8"
+  },
+  {
+    "county": "Franklin",
+    "confirmed": "5"
+  },
+  {
+    "county": "Greene",
+    "confirmed": "3"
+  },
+  {
+    "county": "Indiana",
+    "confirmed": "1"
+  },
+  {
+    "county": "Juniata",
+    "confirmed": "1"
+  },
+  {
+    "county": "Lackawanna",
+    "confirmed": "28"
+  },
+  {
+    "county": "Lancaster",
+    "confirmed": "21"
+  },
+  {
+    "county": "Lawrence",
+    "confirmed": "1"
+  },
+  {
+    "county": "Lebanon",
+    "confirmed": "4"
+  },
+  {
+    "county": "Lehigh",
+    "confirmed": "63"
+  },
+  {
+    "county": "Luzerne",
+    "confirmed": "36"
+  },
+  {
+    "county": "Lycoming",
+    "confirmed": "1"
+  },
+  {
+    "county": "Mercer",
+    "confirmed": "3"
+  },
+  {
+    "county": "Monroe",
+    "confirmed": "67"
+  },
+  {
+    "county": "Montgomery",
+    "confirmed": "282"
+  },
+  {
+    "county": "Montour",
+    "confirmed": "4"
+  },
+  {
+    "county": "Northampton",
+    "confirmed": "56"
+  },
+  {
+    "county": "Philadelphia",
+    "confirmed": "402"
+  },
+  {
+    "county": "Pike",
+    "confirmed": "15"
+  },
+  {
+    "county": "Potter",
+    "confirmed": "1"
+  },
+  {
+    "county": "Schuylkill",
+    "confirmed": "9"
+  },
+  {
+    "county": "Somerset",
+    "confirmed": "2"
+  },
+  {
+    "county": "Susquehanna",
+    "confirmed": "1"
+  },
+  {
+    "county": "Warren",
+    "confirmed": "1"
+  },
+  {
+    "county": "Washington",
+    "confirmed": "12"
+  },
+  {
+    "county": "Wayne",
+    "confirmed": "6"
+  },
+  {
+    "county": "Westmoreland",
+    "confirmed": "24"
+  },
+  {
+    "county": "York",
+    "confirmed": "21"
+  }
+]

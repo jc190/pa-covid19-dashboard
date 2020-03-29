@@ -1,0 +1,337 @@
+[
+  {
+    "stateId": 42,
+    "countyId": "001",
+    "name": "Adams County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "003",
+    "name": "Allegheny County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "005",
+    "name": "Armstrong County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "007",
+    "name": "Beaver County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "009",
+    "name": "Bedford County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "011",
+    "name": "Berks County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "013",
+    "name": "Blair County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "015",
+    "name": "Bradford County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "017",
+    "name": "Bucks County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "019",
+    "name": "Butler County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "021",
+    "name": "Cambria County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "023",
+    "name": "Cameron County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "025",
+    "name": "Carbon County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "027",
+    "name": "Centre County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "029",
+    "name": "Chester County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "031",
+    "name": "Clarion County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "033",
+    "name": "Clearfield County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "035",
+    "name": "Clinton County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "037",
+    "name": "Columbia County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "039",
+    "name": "Crawford County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "041",
+    "name": "Cumberland County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "043",
+    "name": "Dauphin County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "045",
+    "name": "Delaware County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "047",
+    "name": "Elk County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "049",
+    "name": "Erie County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "051",
+    "name": "Fayette County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "053",
+    "name": "Forest County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "055",
+    "name": "Franklin County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "057",
+    "name": "Fulton County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "059",
+    "name": "Greene County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "061",
+    "name": "Huntingdon County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "063",
+    "name": "Indiana County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "065",
+    "name": "Jefferson County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "067",
+    "name": "Juniata County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "069",
+    "name": "Lackawanna County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "071",
+    "name": "Lancaster County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "073",
+    "name": "Lawrence County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "075",
+    "name": "Lebanon County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "077",
+    "name": "Lehigh County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "079",
+    "name": "Luzerne County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "081",
+    "name": "Lycoming County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "083",
+    "name": "McKean County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "085",
+    "name": "Mercer County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "087",
+    "name": "Mifflin County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "089",
+    "name": "Monroe County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "091",
+    "name": "Montgomery County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "093",
+    "name": "Montour County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "095",
+    "name": "Northampton County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "097",
+    "name": "Northumberland County"
+  },
+  {
+    "stateId": 42,
+    "countyId": "099",
+    "name": "Perry County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 101,
+    "name": "Philadelphia County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 103,
+    "name": "Pike County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 105,
+    "name": "Potter County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 107,
+    "name": "Schuylkill County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 109,
+    "name": "Snyder County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 111,
+    "name": "Somerset County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 113,
+    "name": "Sullivan County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 115,
+    "name": "Susquehanna County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 117,
+    "name": "Tioga County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 119,
+    "name": "Union County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 121,
+    "name": "Venango County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 123,
+    "name": "Warren County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 125,
+    "name": "Washington County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 127,
+    "name": "Wayne County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 129,
+    "name": "Westmoreland County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 131,
+    "name": "Wyoming County"
+  },
+  {
+    "stateId": 42,
+    "countyId": 133,
+    "name": "York County"
+  }
+]
