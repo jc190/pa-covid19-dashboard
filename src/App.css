@@ -31,3 +31,17 @@
   font-size: 27px;
   line-height: 36px;
 }
+
+.nav-item > h3 {
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
+
+.resource-list > li {
+  margin-bottom: 1rem;
+}
+
+.resource-list > li:last-of-type {
+  margin-bottom: 0;
+}

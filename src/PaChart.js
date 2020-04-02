@@ -7,6 +7,7 @@ const PaChart = () => {
 
   const [size, setSize] = useState({ w: 640, h: 360 });
   const [confirmed, setConfirmed] = useState();
+  const [date, setDate] = useState();
 
   useEffect(() => {
     const el = document.querySelector('#PaChartContainer');
@@ -34,6 +35,7 @@ const PaChart = () => {
         .attr("height", size.h)
         .append('g')
         .attr("transform", "translate(" + 0 + "," + margin.top /2 + ")");
+      setDate(confirmed[0].updated);
       let data = confirmed[0].cases;
       data = data.filter((c) => c.confirmed > 0);
       const parseTime = d3.timeParse("%m/%d/%Y");
@@ -45,22 +47,24 @@ const PaChart = () => {
       const line = d3.line()
         .x((d) => xScale(parseTime(d.date)))
         .y((d) => yScale(+d.confirmed));
+
+      const moveX = margin.left / 1.75;
   
       svg.append("g")
         .attr("class", "x axis")
-        .attr("transform", "translate(" + margin.left / 1.5 + "," + (size.h - margin.bottom) + ")")
-        .call(d3.axisBottom(xScale).ticks(data.length).tickFormat(d3.timeFormat('%b %d')));
+        .attr("transform", "translate(" + moveX+ "," + (size.h - margin.bottom) + ")")
+        .call(d3.axisBottom(xScale).ticks(10).tickFormat(d3.timeFormat('%b %d')));
   
       svg.append("g")
         .attr("class", "y axis")
-        .call(d3.axisLeft(yScale))
-        .attr('transform', `translate(${margin.left  / 1.5}, 0)`);;
+        .call(d3.axisLeft(yScale).tickFormat(d3.format('~s')))
+        .attr('transform', `translate(${moveX}, 0)`);;
 
       svg.append('path')
         .datum(data)
         .attr('class', 'line')
         .attr('d', line)
-        .attr('transform', `translate(${margin.left  / 1.5}, 0)`);
+        .attr('transform', `translate(${moveX}, 0)`);
 
       svg.selectAll("point")
         .data(data)
@@ -72,7 +76,7 @@ const PaChart = () => {
           .attr("data-date", (d) => d.date)
           .attr("data-confirmed", (d) => d.confirmed)
           .attr("class", "point")
-          .attr('transform', `translate(${margin.left  / 1.5}, 0)`);
+          .attr('transform', `translate(${moveX}, 0)`);
 
       const tooltips = tippy(document.querySelectorAll('.point'));
       tooltips.forEach((i) => i.setContent((r) => `${r.getAttribute('data-date')}: ${r.getAttribute('data-confirmed')}`));
@@ -112,9 +116,9 @@ const PaChart = () => {
       <div className="card-header">
         <div className="d-flex justify-content-between align-items-center">
           <h2>Confirmed Cases Chart</h2>
-          <a href="#" className="text-muted"><i className="bx bx-info-circle bx-sm" /></a>
+          {/* <a href="#" className="text-muted"><i className="bx bx-info-circle bx-sm" /></a> */}
         </div>
-        <small><span className="font-weight-bold">Last updated:</span> {new Date().toString()}</small>
+        <small><span className="font-weight-bold">Last updated:</span> {date && new Date(date).toDateString()}</small>
       </div>
       <div className="card-body">
         <div id="PaChartContainer" />

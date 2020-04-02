@@ -8,6 +8,7 @@ const PaMap = () => {
   const [size, setSize] = useState({w: 640, h: 360});
   const [confirmed, setConfirmed] = useState();
   const [geo, setGeo] = useState();
+  const [date, setDate] = useState();
 
   useEffect(() => {
     const el = document.querySelector('#PaMapContainer');
@@ -36,7 +37,9 @@ const PaMap = () => {
         .attr("height", size.h);
       const projection = d3.geoIdentity();
       const path = d3.geoPath(projection.fitSize([size.w, size.h], geo));
-      const scale = d3.scaleLinear().domain([0, d3.max(confirmed, (d) => +d.confirmed)]).range([.1, 1]);
+      const scale = d3.scaleLog().domain([1, d3.max(confirmed, (d) => +d.confirmed)]).range([.1, 1]);
+
+      setDate(confirmed[0].updated);
   
       // Add counties with data and styling
       svg.selectAll('.county')
@@ -64,9 +67,9 @@ const PaMap = () => {
       <div className="card-header">
         <div className="d-flex justify-content-between align-items-center">
           <h2>Confirmed Cases Map</h2>
-          <a href="#" className="text-muted"><i className="bx bx-info-circle bx-sm" /></a>
+          {/* <a href="#" className="text-muted"><i className="bx bx-info-circle bx-sm" /></a> */}
         </div>
-        <small><span className="font-weight-bold">Last updated:</span> {new Date().toString()}</small>
+        <small><span className="font-weight-bold">Last updated:</span> {date ? new Date(date).toDateString() : null}</small>
       </div>
       <div className="card-body">
         <div id="PaMapContainer" />
