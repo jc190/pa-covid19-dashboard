@@ -288,10 +288,26 @@
       {
         "date": "4/2/20",
         "confirmed": 7268
+      },
+      {
+        "date": "4/3/20",
+        "confirmed": 8570
+      },
+      {
+        "date": "4/4/20",
+        "confirmed": 10444
+      },
+      {
+        "date": "4/5/20",
+        "confirmed": 11589
+      },
+      {
+        "date": "4/6/20",
+        "confirmed": 13127
       }
     ],
     "state": "Pennsylvania",
     "country": "US",
-    "updated": "4/2/20"
+    "updated": "4/6/20"
   }
 ]
