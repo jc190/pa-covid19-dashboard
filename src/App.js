@@ -76,7 +76,7 @@ function App() {
         <div className="container-fluid">
           <hr />
           <div className="text-center">
-            <small className="pb-3">Made by James Calhoun - <a href="#">[<i className='bx bxl-github' /> Github]</a> - Stay informed. Stay safe.</small>
+            <small className="pb-3">Made by James Calhoun - <a href="https://github.com/jc190/pa-covid19-dashboard">[<i className='bx bxl-github' /> Github]</a> - Stay informed. Stay safe.</small>
           </div>
         </div>
       </footer>
