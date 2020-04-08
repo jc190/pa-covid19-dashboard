@@ -304,10 +304,14 @@
       {
         "date": "4/6/20",
         "confirmed": 13127
+      },
+      {
+        "date": "4/7/20",
+        "confirmed": 14853
       }
     ],
     "state": "Pennsylvania",
     "country": "US",
-    "updated": "4/6/20"
+    "updated": "4/7/20"
   }
 ]
