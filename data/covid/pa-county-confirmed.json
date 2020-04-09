@@ -1,464 +1,471 @@
 [
   {
     "county": "Adams",
-    "confirmed": "28",
+    "confirmed": "33",
     "deaths": "0",
     "fips": "42001",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Allegheny",
-    "confirmed": "689",
-    "deaths": "6",
+    "confirmed": "720",
+    "deaths": "10",
     "fips": "42003",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Armstrong",
-    "confirmed": "18",
+    "confirmed": "19",
     "deaths": "0",
     "fips": "42005",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Beaver",
-    "confirmed": "116",
-    "deaths": "9",
+    "confirmed": "128",
+    "deaths": "13",
     "fips": "42007",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Bedford",
     "confirmed": "4",
     "deaths": "0",
     "fips": "42009",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Berks",
-    "confirmed": "369",
-    "deaths": "4",
+    "confirmed": "416",
+    "deaths": "12",
     "fips": "42011",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Blair",
     "confirmed": "6",
     "deaths": "0",
     "fips": "42013",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Bradford",
-    "confirmed": "14",
+    "confirmed": "15",
     "deaths": "0",
     "fips": "42015",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Bucks",
-    "confirmed": "713",
-    "deaths": "21",
+    "confirmed": "816",
+    "deaths": "24",
     "fips": "42017",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Butler",
-    "confirmed": "107",
+    "confirmed": "113",
     "deaths": "2",
     "fips": "42019",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Cambria",
-    "confirmed": "7",
+    "confirmed": "9",
     "deaths": "1",
     "fips": "42021",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Cameron",
     "confirmed": "1",
     "deaths": "0",
     "fips": "42023",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Carbon",
-    "confirmed": "67",
+    "confirmed": "76",
     "deaths": "1",
     "fips": "42025",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Centre",
-    "confirmed": "55",
+    "confirmed": "57",
     "deaths": "0",
     "fips": "42027",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Chester",
-    "confirmed": "335",
+    "confirmed": "373",
     "deaths": "6",
     "fips": "42029",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Clarion",
-    "confirmed": "9",
+    "confirmed": "8",
     "deaths": "0",
     "fips": "42031",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Clearfield",
     "confirmed": "7",
     "deaths": "0",
     "fips": "42033",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Clinton",
     "confirmed": "3",
     "deaths": "0",
     "fips": "42035",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Columbia",
-    "confirmed": "42",
+    "confirmed": "54",
     "deaths": "1",
     "fips": "42037",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Crawford",
     "confirmed": "8",
     "deaths": "0",
     "fips": "42039",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Cumberland",
-    "confirmed": "77",
+    "confirmed": "84",
     "deaths": "2",
     "fips": "42041",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Dauphin",
-    "confirmed": "155",
-    "deaths": "1",
+    "confirmed": "168",
+    "deaths": "2",
     "fips": "42043",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Delaware",
-    "confirmed": "898",
-    "deaths": "20",
+    "confirmed": "1034",
+    "deaths": "23",
     "fips": "42045",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Elk",
     "confirmed": "2",
     "deaths": "0",
     "fips": "42047",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Erie",
     "confirmed": "29",
     "deaths": "0",
     "fips": "42049",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Fayette",
-    "confirmed": "32",
+    "confirmed": "35",
     "deaths": "1",
     "fips": "42051",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Forest",
     "confirmed": "5",
     "deaths": "0",
     "fips": "42053",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Franklin",
-    "confirmed": "39",
+    "confirmed": "43",
     "deaths": "0",
     "fips": "42055",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Fulton",
     "confirmed": "1",
     "deaths": "0",
     "fips": "42057",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Greene",
-    "confirmed": "15",
+    "confirmed": "17",
     "deaths": "0",
     "fips": "42059",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Huntingdon",
-    "confirmed": "5",
+    "confirmed": "6",
     "deaths": "0",
     "fips": "42061",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Indiana",
     "confirmed": "21",
     "deaths": "0",
     "fips": "42063",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Jefferson",
     "confirmed": "1",
     "deaths": "0",
     "fips": "42065",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Juniata",
-    "confirmed": "14",
+    "confirmed": "18",
     "deaths": "0",
     "fips": "42067",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Lackawanna",
-    "confirmed": "235",
-    "deaths": "8",
+    "confirmed": "266",
+    "deaths": "12",
     "fips": "42069",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Lancaster",
-    "confirmed": "490",
+    "confirmed": "561",
     "deaths": "14",
     "fips": "42071",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Lawrence",
-    "confirmed": "29",
+    "confirmed": "32",
     "deaths": "2",
     "fips": "42073",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Lebanon",
-    "confirmed": "145",
+    "confirmed": "169",
     "deaths": "0",
     "fips": "42075",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Lehigh",
-    "confirmed": "1146",
-    "deaths": "10",
+    "confirmed": "1319",
+    "deaths": "12",
     "fips": "42077",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Luzerne",
-    "confirmed": "982",
-    "deaths": "8",
+    "confirmed": "1134",
+    "deaths": "11",
     "fips": "42079",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Lycoming",
-    "confirmed": "12",
+    "confirmed": "15",
     "deaths": "0",
     "fips": "42081",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
+  },
+  {
+    "county": "McKean",
+    "confirmed": "1",
+    "deaths": "0",
+    "fips": "42083",
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Mercer",
-    "confirmed": "26",
+    "confirmed": "27",
     "deaths": "0",
     "fips": "42085",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Mifflin",
-    "confirmed": "6",
+    "confirmed": "10",
     "deaths": "0",
     "fips": "42087",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Monroe",
-    "confirmed": "610",
-    "deaths": "12",
+    "confirmed": "671",
+    "deaths": "17",
     "fips": "42089",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Montgomery",
-    "confirmed": "1359",
-    "deaths": "30",
+    "confirmed": "1521",
+    "deaths": "37",
     "fips": "42091",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Montour",
     "confirmed": "37",
     "deaths": "0",
     "fips": "42093",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Northampton",
-    "confirmed": "774",
-    "deaths": "14",
+    "confirmed": "857",
+    "deaths": "17",
     "fips": "42095",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Northumberland",
     "confirmed": "22",
     "deaths": "0",
     "fips": "42097",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Perry",
-    "confirmed": "9",
+    "confirmed": "13",
     "deaths": "1",
     "fips": "42099",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Philadelphia",
-    "confirmed": "4272",
-    "deaths": "65",
+    "confirmed": "4777",
+    "deaths": "87",
     "fips": "42101",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Pike",
-    "confirmed": "136",
-    "deaths": "5",
+    "confirmed": "148",
+    "deaths": "6",
     "fips": "42103",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Potter",
     "confirmed": "3",
     "deaths": "0",
     "fips": "42105",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Schuylkill",
-    "confirmed": "119",
+    "confirmed": "136",
     "deaths": "0",
     "fips": "42107",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Snyder",
     "confirmed": "9",
     "deaths": "1",
     "fips": "42109",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Somerset",
     "confirmed": "7",
     "deaths": "0",
     "fips": "42111",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Sullivan",
     "confirmed": "1",
     "deaths": "0",
     "fips": "42113",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Susquehanna",
-    "confirmed": "11",
+    "confirmed": "14",
     "deaths": "0",
     "fips": "42115",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Tioga",
     "confirmed": "10",
     "deaths": "0",
     "fips": "42117",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Union",
-    "confirmed": "7",
+    "confirmed": "8",
     "deaths": "0",
     "fips": "42119",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Venango",
     "confirmed": "5",
     "deaths": "0",
     "fips": "42121",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Warren",
     "confirmed": "1",
     "deaths": "0",
     "fips": "42123",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Washington",
-    "confirmed": "57",
+    "confirmed": "59",
     "deaths": "0",
     "fips": "42125",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Wayne",
-    "confirmed": "40",
-    "deaths": "0",
+    "confirmed": "47",
+    "deaths": "1",
     "fips": "42127",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Westmoreland",
-    "confirmed": "177",
+    "confirmed": "183",
     "deaths": "0",
     "fips": "42129",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "Wyoming",
     "confirmed": "5",
     "deaths": "0",
     "fips": "42131",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   },
   {
     "county": "York",
-    "confirmed": "218",
+    "confirmed": "233",
     "deaths": "2",
     "fips": "42133",
-    "updated": "2020-04-07 23:04:49"
+    "updated": "2020-04-08 22:51:58"
   }
 ]
