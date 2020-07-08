@@ -25,8 +25,9 @@ const PaMap = () => {
   })
 
   useEffect(() => {
-    d3.json('data/covid/pa-county-confirmed.json').then((data) => setConfirmed(data));
-    d3.json('data/map/pa-topo.json').then((pa) => setGeo(topojson.feature(pa, pa.objects['pa-albers'])));
+    const headers = { headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' } };
+    d3.json('data/covid/pa-county-confirmed.json', headers).then((data) => setConfirmed(data));
+    d3.json('data/map/pa-topo.json', headers).then((pa) => setGeo(topojson.feature(pa, pa.objects['pa-albers'])));
   }, [d3, topojson]);
 
   useEffect(() => {

@@ -14,13 +14,6 @@ const News = () => {
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
   });
-  // useEffect(() => {
-  //   fetch('https://news.google.com/rss/search?q=pennsylvania+%2B+coronavirus&hl=en-US&gl=US&ceid=US:en', {mode: 'cors'})
-  //     .then((response) => {
-  //       console.log(response)
-  //     })
-  //     .catch((err) => console.error(err));
-  // }, []);
   return (
     <div className="card shadow-sm">
       <div className="card-header">
@@ -28,7 +21,7 @@ const News = () => {
       </div>
       <div className="card-body">
         <div id="YT-Vid-Container"  className="d-flex">
-          <iframe width={size.w} height={size.h} src="https://www.youtube-nocookie.com/embed/BtN-goy9VOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe title="YT-Info-Video" width={size.w} height={size.h} src="https://www.youtube-nocookie.com/embed/BtN-goy9VOY" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         </div>
       </div>
     </div>

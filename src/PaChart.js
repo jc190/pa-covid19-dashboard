@@ -24,7 +24,8 @@ const PaChart = () => {
   });
 
   useEffect(() => {
-    d3.json('data/covid/pa-time-series.json').then((data) => setConfirmed(data));
+    const headers = { headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' } };
+    d3.json('data/covid/pa-time-series.json', headers).then((data) => setConfirmed(data));
   }, [d3]);
   
   useEffect(() => {

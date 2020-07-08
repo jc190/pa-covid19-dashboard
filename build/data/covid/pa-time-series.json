@@ -288,10 +288,54 @@
       {
         "date": "4/2/20",
         "confirmed": 7268
+      },
+      {
+        "date": "4/3/20",
+        "confirmed": 8570
+      },
+      {
+        "date": "4/4/20",
+        "confirmed": 10444
+      },
+      {
+        "date": "4/5/20",
+        "confirmed": 11589
+      },
+      {
+        "date": "4/6/20",
+        "confirmed": 13127
+      },
+      {
+        "date": "4/7/20",
+        "confirmed": 14853
+      },
+      {
+        "date": "4/8/20",
+        "confirmed": 16631
+      },
+      {
+        "date": "4/9/20",
+        "confirmed": 18300
+      },
+      {
+        "date": "4/10/20",
+        "confirmed": 20051
+      },
+      {
+        "date": "4/11/20",
+        "confirmed": 21719
+      },
+      {
+        "date": "4/12/20",
+        "confirmed": 22938
+      },
+      {
+        "date": "4/13/20",
+        "confirmed": 24292
       }
     ],
     "state": "Pennsylvania",
     "country": "US",
-    "updated": "4/2/20"
+    "updated": "4/13/20"
   }
 ]
